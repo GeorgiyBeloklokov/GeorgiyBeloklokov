@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GeorgiyBeloklokov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m GeorgiyBeloklokov Front end developer / Software engineer
+- 👀 Right now i'm loooking for a my dream job like front end developer  / software engineer
+- 🌱 I’m currently learning Next.js and Nest.js MobX, GraphQL, Angular, Vue
+- 💞️ my stack: React, Redux, TypeScript, JS, Next, Express, PostrgeSQL, Node, Nest.
+- 📫 my telegram: @Georgiybv and my email: georgiybeloklokov@gmail.com
 
 <!---
 GeorgiyBeloklokov/GeorgiyBeloklokov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
