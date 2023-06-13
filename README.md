@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Georgiy Beloklokov Front end developer / Software engineer / FullStack developer
-- 👀 Right now i'm studying Next Nest and layer coding from figma with Material and Chakra systems
-- 🌱 My purpose is Next.js and Nest.js MobX, GraphQL, Angular, Vue
-- 💞️ My stack: React, Redux, TypeScript, JS, Next, Express, PostrgeSQL, Node, Nest.
+- 👀 Right now i'm studying Next, Nest and layer coding from figma with Material and Chakra systems
+- 🌱 My purpose is Next.js and Nest.js MobX, Angular, Vue
+- 💞️ My stack: React, Redux, TypeScript, JS, Rest Api, GraphQL, Next, Nest, Express, PostrgeSQL, MySQL, MongoDB, Node.js.
 - 📫 My telegram: @Georgiybv and my email: georgiybeloklokov@gmail.com
-- updated 27-02-2023
+- updated 13-06-2023
 
 <!---
 GeorgiyBeloklokov/GeorgiyBeloklokov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
