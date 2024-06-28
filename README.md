@@ -2,7 +2,7 @@
 - 👀 Right now i'm studying Next, Nest
 - 🌱 My purpose is Next.js and Nest.js MobX, Angular, Vue
 - 💞️ My stack: React, Redux, TypeScript, JS, Rest Api, GraphQL, Next, Nest, Express, PostrgeSQL, MySQL, MongoDB, Node.js.
-- 📫 My telegram: @Georgiybv and my email: georgiybeloklokov@gmail.com
+- 📫 my email: georgiybeloklokov@gmail.com
 - updated 18-08-2023
 
 <!---
